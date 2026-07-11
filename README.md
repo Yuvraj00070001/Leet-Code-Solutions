@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
