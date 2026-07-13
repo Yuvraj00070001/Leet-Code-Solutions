@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
