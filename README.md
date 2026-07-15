@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
