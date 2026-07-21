@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
