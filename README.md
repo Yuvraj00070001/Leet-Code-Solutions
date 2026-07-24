@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
