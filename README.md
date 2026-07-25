@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0031-next-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
