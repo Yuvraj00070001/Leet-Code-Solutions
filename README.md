@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 ## Linked List
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
