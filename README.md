@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0046-permutations) |
 ## Sliding Window
 |  |
 | ------- |
