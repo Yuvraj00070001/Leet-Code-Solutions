@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
