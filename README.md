@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
 | ------- |
