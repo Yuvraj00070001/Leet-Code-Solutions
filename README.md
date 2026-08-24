@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0051-n-queens) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
