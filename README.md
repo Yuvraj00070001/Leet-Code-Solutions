@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0060-permutation-sequence) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
