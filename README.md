@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0062-unique-paths) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
