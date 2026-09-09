@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0045-jump-game-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0031-next-permutation) |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
