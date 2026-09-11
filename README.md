@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
