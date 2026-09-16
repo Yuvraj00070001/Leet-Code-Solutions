@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Trie
