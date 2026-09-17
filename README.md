@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
