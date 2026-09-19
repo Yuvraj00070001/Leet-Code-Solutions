@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0076-minimum-window-substring) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Prefix Sum
 |  |
