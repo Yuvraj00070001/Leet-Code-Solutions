@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Linked List
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
