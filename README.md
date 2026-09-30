@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -247,12 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 ## Combinatorics
 |  |
