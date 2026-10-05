@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
@@ -351,4 +353,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
