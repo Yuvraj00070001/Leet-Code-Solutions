@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0087-scramble-string) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0068-text-justification) |
+| [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
