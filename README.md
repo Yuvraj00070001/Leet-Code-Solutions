@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
