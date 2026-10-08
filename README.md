@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0724-find-pivot-index) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
