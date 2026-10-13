@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0087-scramble-string) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Algorithm X
