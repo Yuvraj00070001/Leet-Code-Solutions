@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
 | [3467-transform-array-by-parity](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
@@ -314,10 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
