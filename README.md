@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0204-count-primes) |
+| [0300-longest-increasing-subsequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0164-maximum-gap) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
