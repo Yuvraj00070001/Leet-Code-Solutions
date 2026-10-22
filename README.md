@@ -407,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
