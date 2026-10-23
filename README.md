@@ -411,5 +411,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0584-find-customer-referee) |
+| [1667-fix-names-in-a-table](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
