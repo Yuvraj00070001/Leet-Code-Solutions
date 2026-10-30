@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3467-transform-array-by-parity](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0844-backspace-string-compare) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0912-sort-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -413,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0584-find-customer-referee) |
 | [1667-fix-names-in-a-table](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/1683-invalid-tweets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
