@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Yuvraj00070001/Leet-Code-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
